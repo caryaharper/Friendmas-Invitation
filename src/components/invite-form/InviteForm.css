@@ -1,0 +1,30 @@
+.form-container {
+    margin: auto;
+    padding: 2.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.07);
+}
+
+.form-title {
+    text-align: left;
+}
+
+.invite-form {
+    gap: var(--standard-gap)
+}
+
+.controls {
+    gap: var(--standard-gap);
+}
+
+.control {
+    align-items: flex-start;
+}
+
+.end-buttons {
+    justify-content: space-between;
+}
+
+.end-buttons button {
+    font-size: 16px;
+}
